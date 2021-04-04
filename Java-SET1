@@ -1,0 +1,92 @@
+// Print int, char, double variable...
+public class Print_type {
+
+	public static void main(String[] args) {
+		int a=10;
+		double b=10.0;
+		char c= 'a';
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		}
+}
+
+
+//Print area of rectangle of sides 2 and 3 unit respectively...
+
+public class RectangleArea {
+
+	public static void main(String[] args) {
+		int a=2;
+		int b=3;
+		System.out.println("Area of rectangle is: "+(a*b));
+		}
+}
+
+
+// Product of two number....
+
+public class Product {
+
+	public static void main(String[] args) {
+		int a1=6;
+		double a2=8.2;
+		System.out.println(a1*a2);
+		}
+}
+
+
+// Print ASCII value of character 'h'....
+
+public class AsciiValue{
+	public static void main(String[] args) {
+		char a='h';
+		int b=(int)'h';
+		System.out.println(b);
+		}
+}
+
+// Convert double into Int...
+
+public class TypeCasting {
+
+	public static void main(String[] args) {
+		double a=100.235;
+		int b=(int)a;
+		System.out.println(b);
+		}
+}
+
+//Add 3 to the ASCII value of charactr 'd' and print equivalent caracter...
+public class EquivalentChar {
+
+	public static void main(String[] args) {
+		char a='d';
+		int b=(int)a;
+		System.out.println(b+3);
+		
+		}
+}
+
+//Add Int and Double value....
+public class AddValues {
+
+	public static void main(String[] args) {
+		int a=5;
+		double b= 6.2;
+		
+		System.out.println(a+b);
+		
+		}
+}
+
+// Square of two number...
+
+public class Suqare {
+
+	public static void main(String[] args) {
+		double a=3.9;;
+		System.out.println(a*b);
+		
+		}
+}
